@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Replace YOUR-USERNAME before publishing
-Sitemap: https://YOUR-USERNAME.github.io/college-style-guide/sitemap.xml
+Sitemap: https://fcurran0622.github.io/college-style-guide/sitemap.xml
